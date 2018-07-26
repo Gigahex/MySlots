@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rate_1000">Ставка 1000</string>
+    <string name="rate_500">Ставка 500</string>
+    <string name="rate_100">Ставка 100</string>
+    <string name="slots_btn_start">Старт</string>
+</resources>

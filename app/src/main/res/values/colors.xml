@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGameslot">#5e5f66</color>
+    <color name="textGameSlot">#7987cb</color>
+    <color name="endColorButtonFocused">#79C83F</color>
+    <color name="startColorButtonFocused">#79C83F</color>
+    <color name="button_focused">#7986cb</color>
+    <color name="button_pressed">#e8eaf6</color>
+    <color name="button_normal">#7986cb</color>
+</resources>
